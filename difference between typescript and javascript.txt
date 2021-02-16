@@ -1,0 +1,16 @@
+
+JavaScript:
+	It doesn't support strongly typed or static typing.
+	It is directly run on the browser.
+	It is just a scripting language.
+	It doesn't support optional parameters.
+	It is interpreted language that's why it highlighted the errors at runtime.
+	JavaScript doesn't support modules.
+
+TypeScript:
+	It supports strongly typed or static typing feature.
+	It is not directly run on the browser.
+	It supports object-oriented programming concept like classes, interfaces, inheritance etc
+	It supports optional parameters.
+	It compiles the code and highlighted errors during the development time.
+	TypeScript gives support for modules.
